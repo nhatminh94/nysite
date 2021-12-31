@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    height: 1300px;
+}
+
+h1, h2{
+    color: white;
+    font-size: xx-large;
+}
+
+img{
+    padding-top: 1%;
+}
+
+iframe{
+    padding-top: 1%;
+}
